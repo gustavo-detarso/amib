@@ -1,0 +1,115 @@
+#+TITLE: Hemorragia digestiva alta
+#+AUTHOR: Gustavo Magalhães Mendes de Tarso
+#+EMAIL: gustavo.detarso@gmail.com
+#+DATE: 2023-01-17
+#+LANGUAGE: pt-BR
+#+OPTIONS: toc:nil
+
+* Definição:
+ Todo sangramento que esteja anterior ao ângulo de Treitz e que produza *ematêmese e/ou melena*.
+ 
+* Manejo:
+
+** Escore Glasgow-Blatchford
+
+|--------------------------+--------------------------------------+-----------|
+| Riscos                   | Valores                              | Pontuação |
+|--------------------------+--------------------------------------+-----------|
+| Uréia plasmática (mg/dL) | >= 38 < 47                           |         2 |
+|                          | >= 47 < 58                           |         3 |
+|                          | >= 58 < 147                          |         4 |
+|                          | >= 147                               |         6 |
+|--------------------------+--------------------------------------+-----------|
+| Hemoglobina (d/dL)       | >= 12 < 13                           |         1 |
+| Homens                   | >= 10 < 12                           |         3 |
+|                          | < 10                                 |         6 |
+|--------------------------+--------------------------------------+-----------|
+| Hemoglobina (g/dL)       | >= 10 < 12                           |         1 |
+| Mulheres                 | < 10                                 |         6 |
+|--------------------------+--------------------------------------+-----------|
+| PAS (mmHg)               | 100 - 109                            |         1 |
+|                          | 90 - 99                              |         2 |
+|                          | < 90                                 |         3 |
+|--------------------------+--------------------------------------+-----------|
+| Outros marcadores        | Pulso >= 100 bpm                     |         1 |
+|                          | Presença de melena                   |         1 |
+|                          | Presença de síncope                  |         2 |
+|                          | Doença hepática sabidamente prévia   |         2 |
+|                          | Falência cardíaca sabidamente prévia |         2 |
+|--------------------------+--------------------------------------+-----------|
+
+*** Até um ponto --> Ambulatório;
+*** Mais de um ponto --> Internação;
+*** Estabilização do paciente;
+*** Sem evidências de realizar EDA em menos de 24 horas.
+
+* Etiologia:
+** Varicosa (25-35%):
+*** Fisiopatologia:
+**** Surgimento com hipertensão portal > 12 mmHg;
+**** Geralmente em cirrose hepática.
+*** Tratamento:
+**** Antibiótico (profilaxia para peritonite bacteriana espontânea - PBE);
+**** Droga vasoativa:
+***** Fisiologia:
+****** Aumento da vasoconstrição esplânica para diminuição da hipertensão portal;
+***** Medicamentos:
+****** Octreotide;
+****** Somatostatina;
+****** Terlipressina.
+***** Em caso de choque hemorrágico com necessidade de noradrenalina, *NÃO* se faz necessário associar com os medicamentos acima;
+**** Balão Sengstaken-Blakemore;
+**** TIPS:
+***** Complicações:
+****** Encefalopatia hepática;
+****** Descompensação cardíaca;
+****** Insuficiência hepática. 
+**** hipertensão portal > 20 mmHg é indicador de falha terapêutica.
+** Não-varicosa:
+*** Tipos:
+**** Mallory Weis (10-15%)
+**** Úlcera duodenal (10-15%)
+**** Úlcera péptica (35-50%)
+*** Classificação de Forrest
+
+|---------------------------------+------------------------------------------+-------------+----------------------|
+|                                 | Classificação                            | Prevalência | Risco de sangramento |
+|---------------------------------+------------------------------------------+-------------+----------------------|
+| Sangramento ativo               | IA - sangramento em jato                 |         10% | 90%                  |
+|                                 | IB - sangramento em babação              |         10% | 10 - 20%             |
+|---------------------------------+------------------------------------------+-------------+----------------------|
+| Estigmas de sangramento recente | IIA - Vaso visível sem sangramento ativo |         25% | 50%                  |
+|                                 | IIB - coágulo aderido                    |         10% | 25 - 30%             |
+|                                 | IIC - hematina na base                   |         10% | 7 - 10%              |
+|---------------------------------+------------------------------------------+-------------+----------------------|
+| Sem sangramento                 | III - base limpa                         |         35% | 3 a 5%               |
+|---------------------------------+------------------------------------------+-------------+----------------------|
+
+*** Tratamento (dependente da EDA):
+**** Terapia endoscópica;
+**** Inibidor de bomba de próton.
+*** Escore de Rockall (ressangramento/mortalidade)
+
+|----------------------+---------------------------------------------------+-----------|
+| Riscos               | Valores                                           | Pontuação |
+|----------------------+---------------------------------------------------+-----------|
+| Idade                | < 60 anos                                         |         0 |
+|                      | 60 - 79 anos                                      |         1 |
+|                      | > 80 anos                                         |         2 |
+|----------------------+---------------------------------------------------+-----------|
+| Choque               | FC < 100 bpm, TAS >= 100                          |         0 |
+|                      | FC > 100 bpm, TAS >= 100                          |         1 |
+|                      | FC > 100 bpm, TAS < 100                           |         2 |
+|----------------------+---------------------------------------------------+-----------|
+| Comorbidades         | Sem                                               |         0 |
+|                      | ICC, DAC ou outra _major_                           |         2 |
+|                      | Insuf. hepática, Insuf. Renal,                    |         3 |
+|                      | neopplasia maliga disseminada                     |           |
+|----------------------+---------------------------------------------------+-----------|
+| Dx endoscópico       | Sem lesão, MW                                     |         0 |
+|                      | Outro diagnóstico                                 |         1 |
+|                      | Neoplasia maligna                                 |         2 |
+|----------------------+---------------------------------------------------+-----------|
+| Achados endoscópicos | Sem estigmas, manchas de hematina                 |         0 |
+|                      | Hemorragia ativa, vaso visível,  coágulo aderente |         2 |
+|----------------------+---------------------------------------------------+-----------|
